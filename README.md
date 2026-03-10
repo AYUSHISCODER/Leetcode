@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
@@ -21,10 +22,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
