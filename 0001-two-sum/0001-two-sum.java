@@ -9,7 +9,7 @@ class Solution {
         int result[]=new int[2];
         int count=0;
         Arrays.sort(nums);
-        while(i<n){
+        while(i<j){
             if(nums[i]+nums[j]==target){
                 for(int a=0;a<n;a++){
                     if(arr[a]==nums[i] || arr[a]==nums[j]){
