@@ -11,7 +11,7 @@ class Solution {
 
             max=Math.max(v1, Math.max(v2,v3));
             min=Math.min(v1, Math.min(v2,v3));
-            res= Math.max(res,Math.max(max,min));
+            res= Math.max(res,max);
         }
         return res;
         
