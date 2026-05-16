@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AYUSHISCODER/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -58,6 +59,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -89,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
