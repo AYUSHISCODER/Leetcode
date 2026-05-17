@@ -10,8 +10,9 @@ class Solution {
             if(c=='a'||c=='e'|| c=='i'||c=='o'||c=='u'){
                 res++;
             }
-            count=res;
+         
  }
+    count=res;
 
 high++;
 while(high<n){
