@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/AYUSHISCODER/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/AYUSHISCODER/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYUSHISCODER/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -113,6 +114,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/AYUSHISCODER/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
