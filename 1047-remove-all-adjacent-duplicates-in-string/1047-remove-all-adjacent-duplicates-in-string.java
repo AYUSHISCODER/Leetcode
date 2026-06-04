@@ -16,17 +16,10 @@ class Solution {
             }
             st.push(c);
         }
-        String ans="";
-        while(!st.isEmpty()){
-            ans+=st.pop();
-        }
-        int k=ans.length();
-        String ans2="";
-        for(int i=k-1;i>=0;i--){
-            ans2+=ans.charAt(i);
-
-        }
-        return ans2;
-        
+       StringBuilder sb = new StringBuilder();
+for(char c : st) {
+    sb.append(c);
+}
+return sb.toString();
     }
 }
