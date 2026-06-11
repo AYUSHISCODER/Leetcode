@@ -16,6 +16,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYUSHISCODER/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -149,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/AYUSHISCODER/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Linked List
@@ -165,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +207,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
