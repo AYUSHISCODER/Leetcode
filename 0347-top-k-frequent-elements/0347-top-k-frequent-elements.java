@@ -1,3 +1,5 @@
+//O(nlog(n))  try better
+
 class Solution {
    class pair{ int first;
     int second;
@@ -11,23 +13,29 @@ class Solution {
             (a,b)->{
                 
             
-                    return b.second-a.second;
+                    return a.second-b.second;
                 
             }
         );
-       for(int i : nums){
-        map.put(i,map.getOrDefault(i,0)+1);
+       for(int x:nums){
+        map.put(x,map.getOrDefault(x,0)+1);
        }
+       int count=0;
        for(int key : map.keySet()){
+        if(pq.size()<k){
         pq.add(new pair(key,map.get(key)));
-    }
-    int [] ans=new int[k];
-    for(int i=0;i<k;i++){
-        ans[i]=pq.poll().first;
-    }
-    return ans;
+        }
+        else{
+             if(pq.peek().second<map.get(key)){
+          pq.poll();
+          pq.add(new pair(key,map.get(key)));
+        }
+          }  }
+       int ans[]=new int[k];
+       for(int i=0;i<k;i++){
+       ans[i]=pq.poll().first;
+       }
 
-    
+return ans;
     }
-    
-}
+    }
