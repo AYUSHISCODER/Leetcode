@@ -7,8 +7,12 @@ class Solution {
         int n= 0;
         while(pq.size()>1){
              n=pq.poll()-pq.poll();
+             if(n!=0)
             pq.add(n);
 
+        }
+        if(pq.size()==0){
+            return 0;
         }
         return pq.peek();
     }
