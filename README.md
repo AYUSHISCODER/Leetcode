@@ -118,6 +118,7 @@
 | [0202-happy-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/AYUSHISCODER/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,4 +237,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/AYUSHISCODER/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
