@@ -35,6 +35,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/AYUSHISCODER/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1046-last-stone-weight](https://github.com/AYUSHISCODER/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AYUSHISCODER/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -226,6 +227,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/AYUSHISCODER/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
