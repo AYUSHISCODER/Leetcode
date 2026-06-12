@@ -3,7 +3,10 @@ class Solution {
         ArrayList<Integer> fact=new ArrayList<>();
         for(int i=1;i*i<=n;i++){
             if(n%i==0){
-                fact.add(i);
+                k--;
+                if(k==0){
+                    return i;
+                }
                 
                 if(n/i!=i){
                 fact.add(n/i);
@@ -11,13 +14,11 @@ class Solution {
             }
             
         }
-        Collections.sort(fact);
-        if(k>fact.size()){
-            return -1;
+        for(int i=fact.size()-1;i>=0;i--){
+            k--;
+            if(k==0){
+                return fact.get(i);
+            }
         }
-       
-            int ans=fact.get(k-1);
-    
-        return ans;
-    }
-}
+        return -1;
+}}
