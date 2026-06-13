@@ -24,6 +24,7 @@
 | [0503-next-greater-element-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AYUSHISCODER/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/AYUSHISCODER/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/AYUSHISCODER/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -82,6 +83,7 @@
 | [0496-next-greater-element-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AYUSHISCODER/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AYUSHISCODER/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AYUSHISCODER/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -163,6 +165,7 @@
 | [0075-sort-colors](https://github.com/AYUSHISCODER/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -203,6 +206,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AYUSHISCODER/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/AYUSHISCODER/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -220,6 +224,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/AYUSHISCODER/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/AYUSHISCODER/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Simulation
@@ -231,6 +236,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/AYUSHISCODER/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
