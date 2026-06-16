@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/AYUSHISCODER/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/AYUSHISCODER/Leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/AYUSHISCODER/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -113,6 +114,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYUSHISCODER/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -268,4 +270,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/AYUSHISCODER/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
