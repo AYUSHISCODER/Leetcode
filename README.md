@@ -22,6 +22,7 @@
 | [0275-h-index-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -83,6 +84,7 @@
 | [0409-longest-palindrome](https://github.com/AYUSHISCODER/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AYUSHISCODER/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/AYUSHISCODER/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -173,6 +175,7 @@
 | [0075-sort-colors](https://github.com/AYUSHISCODER/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/AYUSHISCODER/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
