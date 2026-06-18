@@ -44,6 +44,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/AYUSHISCODER/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AYUSHISCODER/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/AYUSHISCODER/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -62,6 +63,7 @@
 | [0904-fruit-into-baskets](https://github.com/AYUSHISCODER/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/AYUSHISCODER/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/AYUSHISCODER/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AYUSHISCODER/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Prefix Sum
@@ -74,6 +76,7 @@
 | [0724-find-pivot-index](https://github.com/AYUSHISCODER/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AYUSHISCODER/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/AYUSHISCODER/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/AYUSHISCODER/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
@@ -100,6 +103,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/AYUSHISCODER/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/AYUSHISCODER/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/AYUSHISCODER/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/AYUSHISCODER/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -141,6 +145,7 @@
 | [0202-happy-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/AYUSHISCODER/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/AYUSHISCODER/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
