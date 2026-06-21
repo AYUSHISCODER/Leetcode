@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/AYUSHISCODER/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/AYUSHISCODER/Leetcode/tree/main/0057-insert-interval/) | Medium |
@@ -308,4 +309,5 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
