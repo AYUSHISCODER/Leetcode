@@ -22,15 +22,14 @@ class Solution {
     public int fun(TreeNode root,int sum){
         
         if(root==null){
-            return res;
+            return 0;
         }
         sum=sum*10+root.val;
         if(root.left==null && root.right==null){
-            res+=sum;
+            return sum;
         }
-        fun(root.left,sum);
-         fun(root.right,sum);
-         return res;
+       return  fun(root.left,sum)+fun(root.right,sum);
+        
     
     }
 }
