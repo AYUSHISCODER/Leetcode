@@ -329,6 +329,7 @@
 | [0101-symmetric-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -340,6 +341,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0112-path-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -352,6 +354,7 @@
 | [0101-symmetric-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -365,6 +368,7 @@
 | [0101-symmetric-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSHISCODER/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
