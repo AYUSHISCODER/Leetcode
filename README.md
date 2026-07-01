@@ -353,6 +353,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSHISCODER/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,6 +389,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSHISCODER/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +401,7 @@
 | [0112-path-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSHISCODER/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
