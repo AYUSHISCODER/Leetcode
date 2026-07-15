@@ -183,6 +183,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AYUSHISCODER/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/AYUSHISCODER/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +320,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AYUSHISCODER/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
