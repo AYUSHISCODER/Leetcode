@@ -142,6 +142,7 @@
 | [0076-minimum-window-substring](https://github.com/AYUSHISCODER/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/AYUSHISCODER/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/AYUSHISCODER/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/AYUSHISCODER/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
@@ -223,6 +224,7 @@
 | [0202-happy-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSHISCODER/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
