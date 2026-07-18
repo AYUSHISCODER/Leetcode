@@ -142,6 +142,7 @@
 | [0076-minimum-window-substring](https://github.com/AYUSHISCODER/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/AYUSHISCODER/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/AYUSHISCODER/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -178,6 +179,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0507-perfect-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
