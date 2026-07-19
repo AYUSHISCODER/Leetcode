@@ -51,6 +51,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/AYUSHISCODER/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/AYUSHISCODER/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/AYUSHISCODER/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/AYUSHISCODER/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AYUSHISCODER/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -366,6 +367,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/AYUSHISCODER/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/AYUSHISCODER/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -456,6 +458,7 @@
 | [0226-invert-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSHISCODER/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0994-rotting-oranges](https://github.com/AYUSHISCODER/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
