@@ -59,6 +59,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1534-count-good-triplets](https://github.com/AYUSHISCODER/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -472,4 +473,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/AYUSHISCODER/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1534-count-good-triplets](https://github.com/AYUSHISCODER/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 <!---LeetCode Topics End-->
