@@ -67,6 +67,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/AYUSHISCODER/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AYUSHISCODER/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AYUSHISCODER/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/AYUSHISCODER/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +139,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -477,4 +481,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/AYUSHISCODER/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 <!---LeetCode Topics End-->
