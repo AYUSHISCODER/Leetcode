@@ -1,43 +1,39 @@
 class Solution {
-    class pair {
-        int index;
+    class pair{
+        int first;
         int second;
-
-        pair(int id, int dis) {
-            this.index = id;
-            this.second = dis;
+        pair(int first,int second){
+            this.first=first;
+            this.second=second;
         }
     }
-
     public int[][] kClosest(int[][] points, int k) {
-
-        PriorityQueue<pair> pq = new PriorityQueue<>(
-            (a, b) -> Integer.compare(b.second, a.second)
+        HashMap<Integer,Integer> map=new HashMap<>();
+        PriorityQueue<pair> pq=new PriorityQueue<>(
+            (a,b)-> {return b.second-a.second;
+            }
         );
+        for(int i=0;i<points.length;i++){
+            int pos= (points[i][0]*points[i][0] )+ (points[i][1]*points[i][1]);
+            map.put(i,pos);
+        }
+        for(int key : map.keySet()){
+            if(pq.size()<k){
+                pq.add(new pair(key,map.get(key)));
+            }
+            else{
+                if(pq.peek().second >map.get(key)){
+                    pq.poll();
+                    pq.add(new pair(key,map.get(key)));
 
-        for (int i = 0; i < points.length; i++) {
-
-            int dist = points[i][0] * points[i][0]
-                     + points[i][1] * points[i][1];
-
-            if (pq.size() < k) {
-                pq.offer(new pair(i, dist));
-            } else if (dist < pq.peek().second) {
-                pq.poll();
-                pq.offer(new pair(i, dist));
+                }
             }
         }
-
-        int[][] ans = new int[k][2];
-        int idx = 0;
-
-        while (!pq.isEmpty()) {
-            int i = pq.poll().index;
-            ans[idx][0] = points[i][0];
-            ans[idx][1] = points[i][1];
-            idx++;
+        int ans[][]=new int[k][2];
+        for(int i=k-1;i>=0;i--){
+        pair p=pq.poll();
+        ans[i]=points[p.first];
         }
-
-        return ans;
+   return ans;
     }
 }
