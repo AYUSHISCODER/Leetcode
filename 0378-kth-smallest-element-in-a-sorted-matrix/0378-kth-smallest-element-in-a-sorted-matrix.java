@@ -16,8 +16,7 @@ class Solution {
                 high = mid;
             }
         }
-
-        return low;
+return low;
     }
 
     private int countLessEqual(int[][] matrix, int target) {
