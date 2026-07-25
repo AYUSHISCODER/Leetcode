@@ -35,6 +35,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0502-ipo](https://github.com/AYUSHISCODER/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AYUSHISCODER/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -265,6 +266,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/AYUSHISCODER/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0502-ipo](https://github.com/AYUSHISCODER/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -319,6 +321,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AYUSHISCODER/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/AYUSHISCODER/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0502-ipo](https://github.com/AYUSHISCODER/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -356,6 +359,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/AYUSHISCODER/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0502-ipo](https://github.com/AYUSHISCODER/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
