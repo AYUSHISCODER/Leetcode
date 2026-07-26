@@ -279,6 +279,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/AYUSHISCODER/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
@@ -296,6 +297,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AYUSHISCODER/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -357,6 +359,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AYUSHISCODER/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -503,4 +506,8 @@
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/AYUSHISCODER/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AYUSHISCODER/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
