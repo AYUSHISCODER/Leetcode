@@ -23,6 +23,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AYUSHISCODER/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0136-single-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYUSHISCODER/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -297,6 +298,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
