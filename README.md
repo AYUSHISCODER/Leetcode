@@ -50,6 +50,7 @@
 | [0739-daily-temperatures](https://github.com/AYUSHISCODER/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/AYUSHISCODER/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0881-boats-to-save-people](https://github.com/AYUSHISCODER/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AYUSHISCODER/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -258,6 +259,7 @@
 | [0567-permutation-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSHISCODER/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0881-boats-to-save-people](https://github.com/AYUSHISCODER/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/AYUSHISCODER/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -281,6 +283,7 @@
 | [0502-ipo](https://github.com/AYUSHISCODER/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0881-boats-to-save-people](https://github.com/AYUSHISCODER/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -341,6 +344,7 @@
 | [0502-ipo](https://github.com/AYUSHISCODER/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0881-boats-to-save-people](https://github.com/AYUSHISCODER/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sweep Line
