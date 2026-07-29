@@ -10,10 +10,11 @@ class Solution {
              if(!set.contains(x-1)){
              int curr=x;
              int len=1;
-             while(set.contains(curr++)){
+             while(set.contains(curr+1)){
+                curr++;
                 len++;
              }
-             ans=Math.max(ans,len-1);
+             ans=Math.max(ans,len);
 
              }
         }
