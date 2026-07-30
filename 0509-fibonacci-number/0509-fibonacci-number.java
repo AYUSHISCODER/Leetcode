@@ -3,12 +3,13 @@ class Solution {
         if(n==0 || n==1){
             return n;
         }
-        int []dp=new int[n+1];
-        dp[0]=0;
-        dp[1]=1;
+        int prev=1;
+        int prev_prev=0;
         for(int i=2;i<=n;i++){
-            dp[i]=dp[i-1]+dp[i-2];
+            int ans=prev+prev_prev;
+            prev_prev=prev;
+            prev=ans;
         }
-        return dp[n];
-    }
-}
+        return prev;
+       
+}}
