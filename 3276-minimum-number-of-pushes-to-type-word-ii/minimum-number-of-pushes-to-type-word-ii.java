@@ -11,8 +11,7 @@ class Solution {
         int rank=0;
         for(int i=n-1;i>=0;i--){
             if(freq[i]==0){
-                rank++;
-                continue;
+               break;
             }
             ans+=((rank/8)+1)*freq[i];
             rank++;
