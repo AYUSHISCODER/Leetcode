@@ -183,6 +183,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AYUSHISCODER/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@
 | [1512-number-of-good-pairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AYUSHISCODER/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AYUSHISCODER/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
@@ -353,6 +355,7 @@
 | [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/AYUSHISCODER/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sweep Line
