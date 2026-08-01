@@ -277,6 +277,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/AYUSHISCODER/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -320,6 +321,7 @@
 | [0328-odd-even-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AYUSHISCODER/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Bit Manipulation
@@ -348,6 +350,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
