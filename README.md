@@ -78,6 +78,7 @@
 | [1528-shuffle-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/AYUSHISCODER/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -236,6 +237,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/AYUSHISCODER/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AYUSHISCODER/Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -264,6 +266,7 @@
 | [0234-palindrome-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/AYUSHISCODER/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +403,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +421,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/AYUSHISCODER/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AYUSHISCODER/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
