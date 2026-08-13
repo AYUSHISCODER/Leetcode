@@ -242,6 +242,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AYUSHISCODER/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AYUSHISCODER/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
@@ -577,6 +578,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/AYUSHISCODER/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
