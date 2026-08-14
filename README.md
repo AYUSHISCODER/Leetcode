@@ -106,6 +106,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AYUSHISCODER/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AYUSHISCODER/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@
 | [1512-number-of-good-pairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AYUSHISCODER/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@
 | [1528-shuffle-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AYUSHISCODER/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
