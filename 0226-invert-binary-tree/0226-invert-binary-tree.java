@@ -15,21 +15,19 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        return fun(root);
-    }
-    public TreeNode fun(TreeNode root){
         if(root==null){
             return root;
         }
          TreeNode temp=root.left;
-        root.left=root.right;
-        root.right =temp;
-       
-        fun(root.left);
-        fun(root.right);
+            root.left=root.right;
+            root.right=temp;
+        
+        invertTree(root.left);
+        invertTree(root.right);
+        
         return root;
-
     }
-    
-       
-    }
+ // public  void swap(TreeNode p,TreeNode q){
+           
+      //  }
+}
