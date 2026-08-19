@@ -1,21 +1,20 @@
 class Solution {
     public int maxPower(String s) {
-        int ans=Integer.MIN_VALUE;
-         int left=0;
 
-         int count=1;
-         if(s.length()==1){
-            return 1;
-         }
-         for(int right=1;right<s.length();right++){
-         if(s.charAt(right-1)==s.charAt(right)){
-         count++;
-         }
-         else{
-            count=1;
-         }
-         ans=Math.max(count,ans);
-         }
-         return ans;
+        int left = 0;
+        int right = 0;
+        int ans = 1;
+
+        while (right < s.length()) {
+
+            if (s.charAt(left) == s.charAt(right)) {
+                ans = Math.max(ans, right - left + 1);
+                right++;
+            } else {
+                left = right;
+            }
+        }
+
+        return ans;
     }
 }
