@@ -15,12 +15,9 @@ class Solution {
             }
             ans.add(help);
         }
-        List<Integer> finalans=new ArrayList<>();
-        int n=rowIndex;
-        int size=ans.get(rowIndex).size();
-        for(int i=0;i<size;i++){
-            finalans.add(ans.get(rowIndex).get(i));
-        }
-        return finalans;
+      //  List<Integer> finalans=new ArrayList<>();
+       // int n=rowIndex
+       
+        return ans.get(rowIndex);
     }
 }
