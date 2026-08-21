@@ -78,6 +78,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AYUSHISCODER/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AYUSHISCODER/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/AYUSHISCODER/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AYUSHISCODER/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -450,6 +451,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/AYUSHISCODER/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/AYUSHISCODER/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
