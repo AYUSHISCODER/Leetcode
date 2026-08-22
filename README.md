@@ -60,6 +60,7 @@
 | [0724-find-pivot-index](https://github.com/AYUSHISCODER/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/AYUSHISCODER/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0867-transpose-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AYUSHISCODER/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/AYUSHISCODER/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -451,6 +452,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/AYUSHISCODER/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0867-transpose-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/AYUSHISCODER/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -500,6 +502,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/AYUSHISCODER/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/AYUSHISCODER/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
