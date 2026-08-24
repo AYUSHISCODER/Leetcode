@@ -92,6 +92,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AYUSHISCODER/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
