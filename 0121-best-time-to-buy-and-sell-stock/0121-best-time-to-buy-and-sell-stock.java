@@ -1,16 +1,32 @@
 class Solution {
+    Integer dp[][];
     public int maxProfit(int[] prices) {
         int n=prices.length;
-        int minPrice=prices[0];
-        int maxPrice=0;
-        int profit=0;
+        int k=2;
+        dp=new Integer[n][k+1];
+        int gain =fun(prices, n ,0, k);
+        return Math.max(0,gain);
 
-        for(int i=0;i<n;i++){
-           minPrice=Math.min(minPrice,prices[i]);
-          int Maxprofit=prices[i]-minPrice;
-           profit=Math.max(profit,Maxprofit);
+    }
+    public int fun(int prices[],int n, int i, int k){
+        if(i==n){
+            return 0;
         }
-        return profit;
-
+        if(k==0){
+            return 0;
+        }
+        if(dp[i][k]!=null){
+            return dp[i][k];
+        }
+        if(k==2){
+            int c1=fun(prices,n,i+1,k-1) - prices[i];
+            int c2= fun(prices,n,i+1,k);
+              return dp[i][k]=Math.max(c1,c2);
+        }
+        else{
+            int c1=fun(prices,n,i+1,k-1)+prices[i];
+            int c2=fun(prices,n,i+1 ,k);
+             return dp[i][k]= Math.max(c1,c2);
+        }
     }
 }
