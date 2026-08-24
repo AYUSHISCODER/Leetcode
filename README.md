@@ -83,6 +83,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/AYUSHISCODER/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AYUSHISCODER/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AYUSHISCODER/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -411,6 +412,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AYUSHISCODER/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -418,6 +420,7 @@
 | [0496-next-greater-element-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/AYUSHISCODER/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AYUSHISCODER/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
