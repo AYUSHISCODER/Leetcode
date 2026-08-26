@@ -20,6 +20,7 @@
 | [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/AYUSHISCODER/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/AYUSHISCODER/Leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/AYUSHISCODER/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -281,6 +282,7 @@
 | [0022-generate-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/AYUSHISCODER/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/AYUSHISCODER/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -519,6 +521,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AYUSHISCODER/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0063-unique-paths-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/AYUSHISCODER/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
