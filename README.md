@@ -45,6 +45,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AYUSHISCODER/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0275-h-index-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0275-h-index-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/AYUSHISCODER/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/AYUSHISCODER/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -333,6 +334,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYUSHISCODER/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/AYUSHISCODER/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHISCODER/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
