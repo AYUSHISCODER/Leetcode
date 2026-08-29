@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/AYUSHISCODER/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/AYUSHISCODER/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/AYUSHISCODER/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -323,6 +324,7 @@
 | [0011-container-with-most-water](https://github.com/AYUSHISCODER/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/AYUSHISCODER/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/AYUSHISCODER/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0061-rotate-list/) | Medium |
@@ -355,6 +357,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/AYUSHISCODER/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/AYUSHISCODER/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/AYUSHISCODER/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/AYUSHISCODER/Leetcode/tree/main/0075-sort-colors/) | Medium |
