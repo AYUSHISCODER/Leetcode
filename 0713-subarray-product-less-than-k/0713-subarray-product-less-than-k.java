@@ -17,9 +17,9 @@ class Solution {
         
         }
        
-        if(prod<k){
+    
             count+=right-left+1;
-        }
+    
         right++;
         }
         return count;
