@@ -112,6 +112,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -290,6 +291,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/AYUSHISCODER/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AYUSHISCODER/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
