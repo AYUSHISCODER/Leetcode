@@ -1,25 +1,27 @@
 class Solution {
     Integer dp[][];
     public int numDistinct(String s, String t) {
+        int m=s.length();
+        int n=t.length();
         dp=new Integer[s.length()+1][t.length()+1];
-        return fun(s,t,0,0);
+        return fun(s,t,m,n);
     }
-    public int fun(String s,String t,int i,int j){
-        if(j==t.length()){
+    public int fun(String s,String t,int m,int n){
+        if(n==0){
             return 1;
         }
-        if(i==s.length()){
+        if(m==0){
             return 0;
         }
-        if(dp[i][j]!=null){
-            return dp[i][j];
+        if(dp[m][n]!=null){
+            return dp[m][n];
         }
         
-        if(s.charAt(i)==t.charAt(j)){
-            return dp[i][j]=fun(s,t,i+1,j+1)+fun(s,t,i+1,j);
+        if(s.charAt(m-1)==t.charAt(n-1)){
+            return dp[m][n]=fun(s,t,m-1,n-1)+fun(s,t,m-1,n);
         }
         else{
-            return dp[i][j]= fun(s,t,i+1,j);
+            return dp[m][n]= fun(s,t,m-1,n);
         }
     }
 }
