@@ -216,6 +216,7 @@
 | [0022-generate-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/AYUSHISCODER/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/AYUSHISCODER/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0115-distinct-subsequences](https://github.com/AYUSHISCODER/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/AYUSHISCODER/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -308,6 +309,7 @@
 | [0062-unique-paths](https://github.com/AYUSHISCODER/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/AYUSHISCODER/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/AYUSHISCODER/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AYUSHISCODER/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
