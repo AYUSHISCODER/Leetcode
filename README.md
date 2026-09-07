@@ -72,6 +72,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHISCODER/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/AYUSHISCODER/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/AYUSHISCODER/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AYUSHISCODER/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -320,6 +321,7 @@
 | [0198-house-robber](https://github.com/AYUSHISCODER/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/AYUSHISCODER/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/AYUSHISCODER/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
