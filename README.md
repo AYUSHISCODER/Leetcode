@@ -232,6 +232,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AYUSHISCODER/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/AYUSHISCODER/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -323,6 +324,7 @@
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/AYUSHISCODER/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AYUSHISCODER/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
