@@ -113,6 +113,7 @@
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AYUSHISCODER/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -210,6 +211,7 @@
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AYUSHISCODER/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## String
@@ -349,6 +351,7 @@
 | [0326-power-of-three](https://github.com/AYUSHISCODER/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -698,6 +701,7 @@
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/AYUSHISCODER/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
