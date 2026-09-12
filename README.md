@@ -292,6 +292,7 @@
 | [0507-perfect-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/AYUSHISCODER/Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0877-stone-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -350,6 +351,7 @@
 | [0234-palindrome-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/AYUSHISCODER/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/AYUSHISCODER/Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
@@ -451,6 +453,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/AYUSHISCODER/Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
