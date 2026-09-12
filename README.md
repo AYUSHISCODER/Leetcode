@@ -108,6 +108,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/AYUSHISCODER/Leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2293-min-max-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/2293-min-max-game/) | Easy |
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -144,6 +145,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHISCODER/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AYUSHISCODER/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/AYUSHISCODER/Leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AYUSHISCODER/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Prefix Sum
