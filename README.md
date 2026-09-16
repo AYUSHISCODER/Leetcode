@@ -19,6 +19,7 @@
 | [0040-combination-sum-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/AYUSHISCODER/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/AYUSHISCODER/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/AYUSHISCODER/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/AYUSHISCODER/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -412,6 +413,7 @@
 | [0015-3sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/AYUSHISCODER/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/AYUSHISCODER/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/AYUSHISCODER/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/AYUSHISCODER/Leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -602,6 +604,7 @@
 | [0039-combination-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/AYUSHISCODER/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/AYUSHISCODER/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0113-path-sum-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0494-target-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0494-target-sum/) | Medium |
