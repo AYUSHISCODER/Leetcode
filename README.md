@@ -29,6 +29,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AYUSHISCODER/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/AYUSHISCODER/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/AYUSHISCODER/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -465,6 +466,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/AYUSHISCODER/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -608,6 +610,7 @@
 | [0046-permutations](https://github.com/AYUSHISCODER/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/AYUSHISCODER/Leetcode/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/AYUSHISCODER/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0494-target-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0494-target-sum/) | Medium |
