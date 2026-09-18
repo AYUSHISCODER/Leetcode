@@ -110,6 +110,7 @@
 | [1512-number-of-good-pairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/AYUSHISCODER/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/AYUSHISCODER/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -600,6 +601,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/AYUSHISCODER/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/AYUSHISCODER/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
