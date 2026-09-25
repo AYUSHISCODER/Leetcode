@@ -356,6 +356,7 @@
 | [0198-house-robber](https://github.com/AYUSHISCODER/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/AYUSHISCODER/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/AYUSHISCODER/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0338-counting-bits](https://github.com/AYUSHISCODER/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/AYUSHISCODER/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -483,6 +484,7 @@
 | [0090-subsets-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/AYUSHISCODER/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/AYUSHISCODER/Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
