@@ -306,6 +306,7 @@
 | [0168-excel-sheet-column-title](https://github.com/AYUSHISCODER/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/AYUSHISCODER/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0279-perfect-squares](https://github.com/AYUSHISCODER/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/AYUSHISCODER/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/AYUSHISCODER/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -374,6 +375,7 @@
 | [0002-add-two-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/AYUSHISCODER/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/AYUSHISCODER/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0486-predict-the-winner](https://github.com/AYUSHISCODER/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -484,6 +486,7 @@
 | [0090-subsets-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AYUSHISCODER/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/AYUSHISCODER/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/AYUSHISCODER/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/AYUSHISCODER/Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
