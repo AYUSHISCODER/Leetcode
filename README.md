@@ -264,6 +264,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/AYUSHISCODER/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/AYUSHISCODER/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1446-consecutive-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/1446-consecutive-characters/) | Easy |
@@ -517,6 +518,7 @@
 | [0739-daily-temperatures](https://github.com/AYUSHISCODER/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AYUSHISCODER/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -826,4 +828,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
