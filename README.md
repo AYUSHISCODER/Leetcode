@@ -61,6 +61,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHISCODER/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0413-arithmetic-slices](https://github.com/AYUSHISCODER/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -142,6 +143,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AYUSHISCODER/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0413-arithmetic-slices](https://github.com/AYUSHISCODER/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/AYUSHISCODER/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -363,6 +365,7 @@
 | [0279-perfect-squares](https://github.com/AYUSHISCODER/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/AYUSHISCODER/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/AYUSHISCODER/Leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0413-arithmetic-slices](https://github.com/AYUSHISCODER/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0486-predict-the-winner](https://github.com/AYUSHISCODER/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
