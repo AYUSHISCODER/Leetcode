@@ -316,6 +316,7 @@
 | [0202-happy-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/AYUSHISCODER/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0279-perfect-squares](https://github.com/AYUSHISCODER/Leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0292-nim-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/AYUSHISCODER/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/AYUSHISCODER/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/AYUSHISCODER/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -768,6 +769,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/AYUSHISCODER/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Counting Sort
@@ -822,6 +824,7 @@
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/AYUSHISCODER/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -841,4 +844,16 @@
 | [0020-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
