@@ -39,11 +39,9 @@ if (l2 >= 0) {
             l1--;
             l2--;
         }
-
-        if (carry == 1) {
-            ans = '1' + ans;
+ if (carry== 1) {
+ans = '1' + ans;
         }
-
-        return ans;
+ return ans;
     }
 }
