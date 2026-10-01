@@ -245,6 +245,7 @@
 | [0020-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/AYUSHISCODER/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/AYUSHISCODER/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/AYUSHISCODER/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/AYUSHISCODER/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/AYUSHISCODER/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -310,6 +311,7 @@
 | [0002-add-two-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/AYUSHISCODER/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/AYUSHISCODER/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0067-add-binary](https://github.com/AYUSHISCODER/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/AYUSHISCODER/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -492,6 +494,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/AYUSHISCODER/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/AYUSHISCODER/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0136-single-number/) | Easy |
@@ -576,6 +579,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/AYUSHISCODER/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/AYUSHISCODER/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0867-transpose-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/AYUSHISCODER/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
