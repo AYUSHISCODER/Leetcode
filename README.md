@@ -244,6 +244,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/AYUSHISCODER/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/AYUSHISCODER/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/AYUSHISCODER/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -353,6 +354,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/AYUSHISCODER/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/AYUSHISCODER/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -521,6 +523,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYUSHISCODER/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -847,6 +850,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Brainteaser
