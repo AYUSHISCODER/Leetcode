@@ -263,6 +263,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/AYUSHISCODER/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -375,6 +376,7 @@
 | [0486-predict-the-winner](https://github.com/AYUSHISCODER/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AYUSHISCODER/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -528,6 +530,7 @@
 | [0234-palindrome-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/AYUSHISCODER/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -551,6 +554,7 @@
 | [0409-longest-palindrome](https://github.com/AYUSHISCODER/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0502-ipo](https://github.com/AYUSHISCODER/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/AYUSHISCODER/Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/AYUSHISCODER/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -851,6 +855,7 @@
 | [0020-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Brainteaser
