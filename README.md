@@ -90,6 +90,7 @@
 | [0904-fruit-into-baskets](https://github.com/AYUSHISCODER/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/AYUSHISCODER/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AYUSHISCODER/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AYUSHISCODER/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -541,6 +542,7 @@
 | [0739-daily-temperatures](https://github.com/AYUSHISCODER/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AYUSHISCODER/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/AYUSHISCODER/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AYUSHISCODER/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSHISCODER/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -600,6 +602,7 @@
 | [0412-fizz-buzz](https://github.com/AYUSHISCODER/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0735-asteroid-collision](https://github.com/AYUSHISCODER/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/AYUSHISCODER/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/AYUSHISCODER/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/AYUSHISCODER/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
