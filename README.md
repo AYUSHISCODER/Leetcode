@@ -358,6 +358,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/AYUSHISCODER/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AYUSHISCODER/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AYUSHISCODER/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AYUSHISCODER/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/AYUSHISCODER/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -585,6 +586,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AYUSHISCODER/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AYUSHISCODER/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
