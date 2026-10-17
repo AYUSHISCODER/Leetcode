@@ -135,6 +135,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AYUSHISCODER/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AYUSHISCODER/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -243,6 +244,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AYUSHISCODER/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/AYUSHISCODER/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## String
@@ -491,6 +493,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AYUSHISCODER/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSHISCODER/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/AYUSHISCODER/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AYUSHISCODER/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AYUSHISCODER/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
