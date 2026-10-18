@@ -4,7 +4,7 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> help = new ArrayList<>();
 
-        Arrays.sort(nums);
+     Arrays.sort(nums);
 
         fun(ans, help, nums, 0);
 
