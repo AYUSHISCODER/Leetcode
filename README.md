@@ -129,6 +129,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/AYUSHISCODER/Leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2293-min-max-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/2293-min-max-game/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AYUSHISCODER/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AYUSHISCODER/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -461,6 +462,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AYUSHISCODER/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AYUSHISCODER/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/AYUSHISCODER/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
@@ -636,6 +638,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AYUSHISCODER/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AYUSHISCODER/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2293-min-max-game](https://github.com/AYUSHISCODER/Leetcode/tree/main/2293-min-max-game/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/AYUSHISCODER/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AYUSHISCODER/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
